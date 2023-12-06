@@ -9,15 +9,18 @@ boostrap = Bootstrap5(app)
 @app.route('/')
 def home(): 
     return render_template('FirstPage.html')
-
+@app.route('/men')
 def Men(): 
     return render_template('SecondPage.html')
 
+@app.route('/Athlete')
 def Athlete(): 
     return render_template('ThirdPage.html')
 
+@app.route('/First_Responders')
 def First_Responders(): 
     return render_template('FourthPage.html')
 
+@app.route('/Teen')
 def Teen(): 
     return render_template('FifthPage.html')
