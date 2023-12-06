@@ -21,6 +21,6 @@ def Athlete():
 def First_Responders(): 
     return render_template('FourthPage.html')
 
-@app.route('/Teen')
-def Teen(): 
+@app.route('/teen')
+def teen(): 
     return render_template('FifthPage.html')
