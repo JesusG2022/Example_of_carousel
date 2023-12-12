@@ -8,7 +8,7 @@ boostrap = Bootstrap5(app)
 # home
 @app.route('/')
 def home(): 
-    return render_template('FirstPage.html')
+    return render_template('homepage.html')
 @app.route('/men')
 def Men(): 
     return render_template('SecondPage.html')
