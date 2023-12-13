@@ -1,0 +1,24 @@
+Course: CST205-01
+Title: Mental Health Informative Website
+Abstract: This application create a website with information regarding different aspects of mental health. These aspects include teen, men, first responders/military, and athletes.
+Date: 12-13-2023
+Jesus Garcia Loyola: Carousel
+Hope Reis: research, home page and return buttons 
+Krystelle Barrosa: home page desgin
+Jack Maldonado: topic pages
+
+Important code blocks:
+Design for the multiple web pages on how the background color and information is listed
+A python document creating the home and other pages for the information
+
+Sources:
+Anxiety and Depression Association of America, ADAA
+https://adaa.org/find-help/by-demographics/mens-mental-health
+Cleveland Clinic 
+https://health.clevelandclinic.org/mental-health-in-athletes
+CDC - Centers for Disease Control and Prevention
+https://www.cdc.gov/healthyyouth/mental-health/index.htm
+CDC Blogs
+https://blogs.cdc.gov/niosh-science-blog/2021/04/06/suicides-first-responders/
+Mental Health America
+https://www.mhanational.org/military-mental-health
