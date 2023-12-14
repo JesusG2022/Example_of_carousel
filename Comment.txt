@@ -22,3 +22,5 @@ CDC Blogs
 https://blogs.cdc.gov/niosh-science-blog/2021/04/06/suicides-first-responders/
 Mental Health America
 https://www.mhanational.org/military-mental-health
+Bootstrap Carousel Plugin
+https://www.w3schools.com/bootstrap/bootstrap_carousel.asp
